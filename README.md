@@ -42,7 +42,7 @@ Making some extensions, sites.
 
 ## Contact
 
-You can reach me through GitHub Issues or Pull Requests.
+You can reach me through GitHub Issues, Pull Requests, and repositories' discussion.
 <br>
 
 ---
