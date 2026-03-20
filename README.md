@@ -49,6 +49,9 @@ I like trying things out and learning by building.
 
 ## Projects
 
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=web&logoColor=white)
+
 Making some extensions, sites.
 
 ---
