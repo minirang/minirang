@@ -4,6 +4,12 @@ I'm a middle school student who enjoys building random things and learning by do
 
 ---
 
+<br>
+<img src="img.svg">
+<br>
+
+---
+
 ## Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,3 +44,5 @@ Making some extensions, sites.
 
 You can reach me through GitHub Issues or Pull Requests.
 <br>
+
+---
