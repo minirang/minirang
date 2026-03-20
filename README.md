@@ -21,6 +21,13 @@ I'm a middle school student who enjoys building random things and learning by do
 
 ---
 
+## Tools and environments
+
+![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
 ## What I'm Doing
 
 I'm mainly interested in web development and small projects.  
