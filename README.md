@@ -30,7 +30,7 @@ Making some extensions, sites.
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minirang&show_icons=true)
 
 ---
 
