@@ -1,0 +1,18 @@
+name: Update GitHub-Stats SVG
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: curl -s "https://github-readme-stats.vercel.app/api?username=minirang&show_icons=true&theme=dark" > stats.svg
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update stats SVG" && git push)
