@@ -56,7 +56,7 @@ Making some extensions, sites.
 
 ## Stats
 
-![GitHub stats](stats.svg)
+![GitHub stats](./stats.svg)
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=minirang&show_icons=true)-->
 
 ---
