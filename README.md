@@ -21,10 +21,7 @@ I'm a middle school student who enjoys building random things and learning by do
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -59,7 +56,7 @@ Making some extensions, sites.
 
 ## Stats
 
-![GitHub stats](stats.svg)
+<!--![GitHub stats](stats.svg)-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minirang&show_icons=true)
 
 ---
