@@ -40,7 +40,7 @@ I'm a middle school student who enjoys building random things and learning by do
 
 ## What I'm Doing
 
-I'm mainly interested in web development and small projects.  
+I'm mainly interested in web development, small projects, and vibe coding.  
 I like trying things out and learning by building.
 
 ---
