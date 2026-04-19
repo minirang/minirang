@@ -59,7 +59,7 @@ Making some extensions, sites.
 
 ![GitHub stats](stats.svg)
 <br>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minirang&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minirang&layout=compact&show_icons=true)
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=minirang&show_icons=true)-->
 
 ---
