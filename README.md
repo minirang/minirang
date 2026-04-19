@@ -5,7 +5,7 @@ I'm a middle school student who enjoys building random things and learning by do
 ---
 
 <br>
-<img src="img.svg">
+<img src="img.svg" width="1200" height="300">
 <br>
 
 ---
