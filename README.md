@@ -58,6 +58,7 @@ Making some extensions, sites.
 ## Stats
 
 ![GitHub stats](stats.svg)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minirang&layout=compact)
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=minirang&show_icons=true)-->
 
 ---
