@@ -1,4 +1,4 @@
-*.md linguist-language=MARKDOWN
+*.md linguist-language=Markdown
 *.md linguist-detectable=true
 *.md linguist-generated=false
 *.md linguist-vendored=false
