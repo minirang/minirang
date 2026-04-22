@@ -1,7 +1,4 @@
-*.md linguist-language=Markdown
-*.md linguist-detectable=true
-*.md linguist-generated=false
-*.md linguist-vendored=false
-node_modules/* linguist-vendored
-dist/* linguist-generated
-build/* linguist-generated
+*.md linguist-language=Markdown linguist-detectable=true linguist-generated=false linguist-vendored=false
+node_modules/** linguist-vendored
+dist/** linguist-generated
+build/** linguist-generated
