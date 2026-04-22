@@ -7,6 +7,7 @@ I'm a middle school student who enjoys building random things and learning by do
 <br>
 <img src="img.svg" width="100%">
 <br>
+<img src="https://komarev.com/ghpvc/?username=minirang&color=#00ff9d&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 ---
 
@@ -61,6 +62,9 @@ Making some extensions, sites.
 ![GitHub stats](stats.svg)
 <br>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minirang&layout=compact&show_icons=true)
+<br>
+![minirang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minirang&theme=github-dark&area=true&hide_border=true)
+
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=minirang&show_icons=true)-->
 
 ---
