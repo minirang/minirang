@@ -7,7 +7,7 @@ I'm a middle school student who enjoys building random things and learning by do
 <br>
 <img src="img.svg" width="100%">
 <br>
-<img src="https://komarev.com/ghpvc/?username=minirang&color=#00ff9d&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=minirang&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 ---
 
