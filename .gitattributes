@@ -1,4 +1,1 @@
-*.md linguist-language=Markdown linguist-detectable=true linguist-generated=false linguist-vendored=false
-node_modules/** linguist-vendored
-dist/** linguist-generated
-build/** linguist-generated
+dummy.js linguist-language=Markdown
