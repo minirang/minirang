@@ -1,4 +1,4 @@
-# Hi there 👋, 서울민트초코입니다 ^^
+<div align='center'># Hi there 👋, 서울민트초코입니다 ^^</div>
 
 I'm a middle school student who enjoys building random things and learning by doing.
 
