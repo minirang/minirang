@@ -1,4 +1,6 @@
-<h1 align='center'>Hi there 👋, 서울민트초코입니다 ^^</h1>
+<h1 align='center'>
+    Hi there 👋, 서울민트초코입니다 ^^
+</h1>
 
 I'm a middle school student who enjoys building random things and learning by doing.
 
