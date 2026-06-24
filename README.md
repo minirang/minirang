@@ -15,7 +15,7 @@ I'm a middle school student who enjoys building random things and learning by do
 
 ## Skills
 
-I enjoy learning by building real projects, and these are the languages, frameworks, and tools I use along the way.
+> I enjoy learning by building real projects, and these are the languages, frameworks, and tools I use along the way.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
