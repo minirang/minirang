@@ -86,7 +86,7 @@ You can reach me via [email](mailto:minseong130502@gmail.com), GitHub Issues, Pu
 
 
 <details>
-<summary>🐛🐛🐛🐛🐛Bug Report</summary>
+<summary>🐛🐛🐛🐛🐛 Bug Report</summary>
 
 Known issues:
 
