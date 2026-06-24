@@ -79,7 +79,7 @@ Making some extensions, sites.
 
 ## Contact
 
-You can reach me through GitHub Issues, Pull Requests, and my repositories' discussion.
+You can reach me through ![email](mailto:minseong130502@gmail.com), GitHub Issues, Pull Requests, and my repositories' discussion.
 <br>
 
 ---
