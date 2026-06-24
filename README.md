@@ -61,7 +61,7 @@ I like trying things out and learning by building.
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=web&logoColor=white)
 
-Making some extensions, sites.
+I'm currently building browser extensions and web applications.
 
 ---
 
@@ -79,7 +79,7 @@ Making some extensions, sites.
 
 ## Contact
 
-You can reach me through ![email](mailto:minseong130502@gmail.com), GitHub Issues, Pull Requests, and my repositories' discussion.
+You can reach me via [email](mailto:minseong130502@gmail.com), GitHub Issues, Pull Requests, or Discussions.
 <br>
 
 ---
