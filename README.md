@@ -86,13 +86,13 @@ You can reach me via [email](mailto:minseong130502@gmail.com), GitHub Issues, Pu
 
 
 <details>
-<summary>🐛 Bug Report</summary>
+<summary>🐛🐛🐛🐛🐛Bug Report</summary>
 
 Known issues:
 
 * Sometimes spends 3 hours fixing a bug caused 3 hours ago
 * Turns simple ideas into side projects
-* Frequently says "just one more feature"
+* Frequently says "just one more feature 😂"
 
 No fix planned.
 
