@@ -2,9 +2,8 @@
     Hi there 👋, 서울민트초코입니다 ^^
 </h1>
 
-> I’m a middle school student who enjoys building interesting things and learning through real projects.
-> 
-> I like experimenting with new technologies, creating browser extensions, and sharing what I make on GitHub.
+> I'm a middle school student who enjoys building interesting things, exploring new technologies, and learning through real projects.
+
 ---
 
 <br>
