@@ -72,7 +72,8 @@ I'm currently building browser extensions and web applications.
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minirang&layout=compact&show_icons=true)
 <br>
 ![minirang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minirang&theme=github-dark&area=true&hide_border=true)
-
+<br>
+<img src="https://your-domain.com/api/snake?user=minirang">
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=minirang&show_icons=true)-->
 
 ---
