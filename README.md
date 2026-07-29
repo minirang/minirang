@@ -74,9 +74,6 @@ I'm currently building browser extensions and web applications.
 ![minirang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minirang&theme=github-dark&area=true&hide_border=true)
 <br>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=minirang&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" width="100%" style="max-width: 420px;" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minirang&theme=tokyonight&hide_border=true&border_radius=8" width="100%" style="max-width: 420px;" />
-
 ---
 
 ## Contact
