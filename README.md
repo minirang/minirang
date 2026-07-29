@@ -9,6 +9,7 @@
 <br>
 <img src="img.svg" width="100%">
 <br>
+<img src="https://raw.githubusercontent.com/minirang/minirang/refs/heads/output/github-contribution-grid-snake-dark.svg">
 <img src="https://komarev.com/ghpvc/?username=minirang&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 ---
