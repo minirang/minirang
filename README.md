@@ -68,7 +68,14 @@ I'm currently building browser extensions and web applications.
 
 ## Open source that I contributed
 
-- Fastify<br><a href="https://github.com/fastify/fastify"><img src='https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/69495170/8125e100-61bc-11e9-8d9f-eb01f522f962?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260805T025137Z&X-Amz-Expires=300&X-Amz-Signature=d65f6fcd33adf40b3e31e0b439494e16f8b8cc989f810a8eca0e752aee902e4e&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg5ODU5NywibmJmIjoxNzg1ODk4Mjk3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.a9RJqQw3GPdD8WNtTlRgN-nUUYBbbEp9nP3RXcikBtw'></a>
+<div align='center'>
+    <p>
+        Fastify
+    </p>
+    <br>
+    <a href="https://github.com/fastify/fastify"><img style="width: 120px; height: auto;" src='https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/69495170/8125e100-61bc-11e9-8d9f-eb01f522f962?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260805T025137Z&X-Amz-Expires=300&X-Amz-Signature=d65f6fcd33adf40b3e31e0b439494e16f8b8cc989f810a8eca0e752aee902e4e&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg5ODU5NywibmJmIjoxNzg1ODk4Mjk3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.a9RJqQw3GPdD8WNtTlRgN-nUUYBbbEp9nP3RXcikBtw'>
+    </a>
+</div>
 
 ## Stats
 
