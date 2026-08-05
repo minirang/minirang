@@ -69,7 +69,7 @@ I'm currently building browser extensions and web applications.
 ## Open source that I contributed
 
 <div>
-    <h3>Fastify</h3>
+    <h1>Fastify</h1>
     <a href="https://github.com/fastify/fastify"><img style="width: 200px; height: auto;" src='https://avatars.githubusercontent.com/u/24939410'></a>
 </div>
 
