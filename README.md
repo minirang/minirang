@@ -74,6 +74,8 @@ I'm currently building browser extensions and web applications.
     </a>
 </div>
 
+---
+
 ## Stats
 
 <!--![GitHub stats](stats.svg)<br>-->
