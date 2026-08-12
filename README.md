@@ -71,13 +71,17 @@ I'm currently building browser extensions and web applications.
 <div>
     <h1>Fastify</h1>
     <a href="https://github.com/fastify/fastify/pull/6899"><img style="width: 200px; height: auto;" src='https://avatars.githubusercontent.com/u/24939410'></a>
-    - Fix grammar and formatting issues in the Table of Contents
-    - Normalize CommonJS capitalization
+    <ul>
+        <li>Fix grammar and formatting issues in the Table of Contents</li>
+        <li>Normalize CommonJS capitalization</li>
+    </ul>
 </div>
 <div>
     <h1>cpython</h1>
     <a href="https://github.com/python/cpython/pull/155607"><img style="width: 200px; height: auto;" src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png'></a>
-    - Add missing verb in README.md
+    <ul>
+        <li>Add missing verb in README.md</li>
+    </ul>
 </div>
 
 ---
