@@ -78,6 +78,7 @@ I'm currently building browser extensions and web applications.
         <li>Normalize CommonJS capitalization</li>
     </ul>
 </div>
+<br>
 <div>
     <h1>cpython</h1>
     <a href="https://github.com/python/cpython/pull/155607"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png'></a>
