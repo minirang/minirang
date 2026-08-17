@@ -88,6 +88,15 @@ I'm currently building browser extensions and web applications.
         <li>Add missing verb in README.md</li>
     </ul>
 </div>
+<div>
+    <h1>node</h1>
+    <a href="https://github.com/nodejs/node/pull/65295"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://nodejs.org/static/logos/nodejsStackedLight.svg'></a>
+    <br>
+    <h2>Changes</h2>
+    <ul>
+        <li>Fix grammar in onboarding.md</li>
+    </ul>
+</div>
 
 ---
 
