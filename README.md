@@ -89,6 +89,15 @@ I'm currently building browser extensions and web applications.
     </ul>
 </div>
 <div>
+    <h1>whatwg/web-history</h1>
+    <a href="https://github.com/whatwg/web-history/pull/4"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://resources.whatwg.org/logo.svg'></a>
+    <br>
+    <h2>Changes</h2>
+    <ul>
+        <li>Correct wrong typos</li>
+    </ul>
+</div>
+<div>
     <h1>node</h1>
     <a href="https://github.com/nodejs/node/pull/65295"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://nodejs.org/static/logos/nodejsStackedLight.svg'></a>
     <br>
