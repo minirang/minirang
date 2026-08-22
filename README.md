@@ -144,7 +144,7 @@ I'm currently building browser extensions and web applications.
 
 <div>
     <h1>jquery in 2026</h1>
-    <a href="https://github.com/jquery/jquery/pull/5903"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://brand.jquery.org/resources/jquery-mark-dark.gif'></a>
+    <a href="https://github.com/jquery/jquery/pull/5903"><img style="width: 300px; height: auto; min-width: 250px; max-width: 300px;" src='https://brand.jquery.org/resources/jquery-mark-dark.gif'></a>
     <br>
     <h2>Changes</h2>
     <ul>
