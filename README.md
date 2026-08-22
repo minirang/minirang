@@ -69,7 +69,7 @@ I'm currently building browser extensions and web applications.
 ## Contributed opensource
 
 <div>
-    <h1>Fastify</h1>
+    <h1>Fastify in 2026</h1>
     <a href="https://github.com/fastify/fastify/pull/6899"><img style="width: 200px; height: auto; min-width: 200px; max-width: 250px;" src='https://avatars.githubusercontent.com/u/24939410'></a>
     <br>
     <h2>Changes</h2>
@@ -82,7 +82,7 @@ I'm currently building browser extensions and web applications.
 ---
 
 <div>
-    <h1>cpython</h1>
+    <h1>cpython in 2026</h1>
     <a href="https://github.com/python/cpython/pull/155607"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png'></a>
     <br>
     <h2>Changes</h2>
@@ -94,7 +94,7 @@ I'm currently building browser extensions and web applications.
 ---
 
 <div>
-    <h1>whatwg/web-history</h1>
+    <h1>whatwg/web-history in 2026</h1>
     <a href="https://github.com/whatwg/web-history/pull/4"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://resources.whatwg.org/logo.svg'></a>
     <br>
     <h2>Changes</h2>
@@ -106,7 +106,7 @@ I'm currently building browser extensions and web applications.
 ---
 
 <div>
-    <h1>node</h1>
+    <h1>node in 2026</h1>
     <a href="https://github.com/nodejs/node/pull/65295"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://nodejs.org/static/logos/nodejsStackedLight.svg'></a>
     <br>
     <h2>Changes</h2>
@@ -118,7 +118,7 @@ I'm currently building browser extensions and web applications.
 ---
 
 <div>
-    <h1>vite</h1>
+    <h1>vite in 2026</h1>
     <a href="https://github.com/vitejs/vite/pull/23270"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://vite.dev/assets/vite-light.t8GCa_VF.svg'></a>
     <br>
     <h2>Changes</h2>
@@ -130,8 +130,8 @@ I'm currently building browser extensions and web applications.
 ---
 
 <div>
-    <h1>ruby</h1>
-    <a href="https://github.com/ruby/ruby/pull/18405"><img style="width: 150px; height: auto; min-width: 100px; max-width: 200px;" src='https://www.ruby-lang.org/images/header-ruby-logo.png'></a>
+    <h1>ruby in 2026</h1>
+    <a href="https://github.com/ruby/ruby/pull/18405"><img style="width: 150px; height: auto; min-width: 100px; max-width: 200px;" src='https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original'></a>
     <br>
     <h2>Changes</h2>
     <ul>
@@ -143,7 +143,7 @@ I'm currently building browser extensions and web applications.
 ---
 
 <div>
-    <h1>jquery</h1>
+    <h1>jquery in 2026</h1>
     <a href="https://github.com/jquery/jquery/pull/5903"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://brand.jquery.org/resources/jquery-mark-dark.gif'></a>
     <br>
     <h2>Changes</h2>
@@ -155,7 +155,7 @@ I'm currently building browser extensions and web applications.
 ---
 
 <div>
-    <h1>whatwg/html</h1>
+    <h1>whatwg/html in 2026</h1>
     <a href="https://github.com/whatwg/html/pull/12769"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://resources.whatwg.org/logo.svg'></a>
     <br>
     <h2>Changes</h2>
