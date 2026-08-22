@@ -117,7 +117,7 @@ I'm currently building browser extensions and web applications.
 </div>
 <div>
     <h1>ruby</h1>
-    <a href="https://github.com/ruby/ruby/pull/18405"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://www.ruby-lang.org/images/header-ruby-logo.png'></a>
+    <a href="https://github.com/ruby/ruby/pull/18405"><img style="width: 150px; height: auto; min-width: 100px; max-width: 200px;" src='https://www.ruby-lang.org/images/header-ruby-logo.png'></a>
     <br>
     <h2>Changes</h2>
     <ul>
