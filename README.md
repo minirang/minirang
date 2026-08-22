@@ -66,7 +66,7 @@ I'm currently building browser extensions and web applications.
 
 ---
 
-## Contributed opensource
+# Contributed opensource
 
 <div>
     <h1>Fastify in 2026</h1>
