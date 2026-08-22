@@ -78,7 +78,7 @@ I'm currently building browser extensions and web applications.
         <li>Normalize CommonJS capitalization</li>
     </ul>
 </div>
-<br>
+---
 <div>
     <h1>cpython</h1>
     <a href="https://github.com/python/cpython/pull/155607"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png'></a>
@@ -88,6 +88,7 @@ I'm currently building browser extensions and web applications.
         <li>Add missing verb in README.md</li>
     </ul>
 </div>
+---
 <div>
     <h1>whatwg/web-history</h1>
     <a href="https://github.com/whatwg/web-history/pull/4"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://resources.whatwg.org/logo.svg'></a>
@@ -97,6 +98,7 @@ I'm currently building browser extensions and web applications.
         <li>Correct wrong typos</li>
     </ul>
 </div>
+---
 <div>
     <h1>node</h1>
     <a href="https://github.com/nodejs/node/pull/65295"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://nodejs.org/static/logos/nodejsStackedLight.svg'></a>
@@ -106,6 +108,7 @@ I'm currently building browser extensions and web applications.
         <li>Fix grammar in onboarding.md</li>
     </ul>
 </div>
+---
 <div>
     <h1>vite</h1>
     <a href="https://github.com/vitejs/vite/pull/23270"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://vite.dev/assets/vite-light.t8GCa_VF.svg'></a>
@@ -115,6 +118,7 @@ I'm currently building browser extensions and web applications.
         <li>Fixes a few obvious documentation issues in the Vite docs, including inconsistent option casing and minor grammar fixes.</li>
     </ul>
 </div>
+---
 <div>
     <h1>ruby</h1>
     <a href="https://github.com/ruby/ruby/pull/18405"><img style="width: 150px; height: auto; min-width: 100px; max-width: 200px;" src='https://www.ruby-lang.org/images/header-ruby-logo.png'></a>
@@ -125,6 +129,7 @@ I'm currently building browser extensions and web applications.
         <li>Correct proper noun capitalization (GitHub, GitHub Actions)</li>
     </ul>
 </div>
+---
 <div>
     <h1>jquery</h1>
     <a href="https://github.com/jquery/jquery/pull/5903"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://brand.jquery.org/resources/jquery-mark-dark.gif'></a>
@@ -134,6 +139,7 @@ I'm currently building browser extensions and web applications.
         <li>Fix XMLHTTPRequest into XMLHttpRequest in README.md</li>
     </ul>
 </div>
+---
 <div>
     <h1>whatwg/html</h1>
     <a href="https://github.com/whatwg/html/pull/12769"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://resources.whatwg.org/logo.svg'></a>
