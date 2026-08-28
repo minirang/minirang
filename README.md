@@ -163,6 +163,17 @@ I'm currently building browser extensions and web applications.
     </ul>
 </div>
 
+---
+
+<div>
+    <h1>w3c/png in 2026</h1>
+    <a href="https://github.com/w3c/png/pull/580"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://www.w3.org/assets/logos/w3c-2025/svg/w3c.svg'></a>
+    <br>
+    <h2>Changes</h2>
+    <ul>
+        <li>Fix 'depnd on' into 'depend on' and fix 'specificlly' into 'specifically'.</li>
+    </ul>
+</div>
 
 ---
 
