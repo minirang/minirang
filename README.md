@@ -177,6 +177,19 @@ I'm currently building browser extensions and web applications.
 
 ---
 
+<div>
+    <h1>bootstrap in 2026</h1>
+    <a href="https://github.com/twbs/bootstrap/pull/42879"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg'></a>
+    <br>
+    <h2>Changes</h2>
+    <ul>
+        <li>Fix modal JS examples</li>
+        <li>Fix list numbering</li>
+    </ul>
+</div>
+
+---
+
 ## Stats
 
 <!--![GitHub stats](stats.svg)<br>-->
