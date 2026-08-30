@@ -69,7 +69,7 @@ I'm currently building browser extensions and web applications.
 
 <div>
     <h1>Fastify in 2026</h1>
-    <a href="https://github.com/fastify/fastify/pull/6899"><img style="width: 200px; height: auto; min-width: 200px; max-width: 250px;" src='https://avatars.githubusercontent.com/u/24939410'></a>
+    <a href="https://github.com/fastify/fastify/pull/6899"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://avatars.githubusercontent.com/u/24939410'></a>
     <br>
     <h2>Changes</h2>
     <ul>
@@ -82,7 +82,7 @@ I'm currently building browser extensions and web applications.
 
 <div>
     <h1>cpython in 2026</h1>
-    <a href="https://github.com/python/cpython/pull/155607"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png'></a>
+    <a href="https://github.com/python/cpython/pull/155607"><img style="width: 300px; height: auto; min-width: 200px; max-width: 300px;" src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png'></a>
     <br>
     <h2>Changes</h2>
     <ul>
