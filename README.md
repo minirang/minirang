@@ -30,7 +30,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Cmd](https://img.shields.io/badge/Cmd-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
@@ -93,18 +92,6 @@ I'm currently building browser extensions and web applications.
 ---
 
 <div>
-    <h1>whatwg/web-history in 2026</h1>
-    <a href="https://github.com/whatwg/web-history/pull/4"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://resources.whatwg.org/logo.svg'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Correct wrong typos</li>
-    </ul>
-</div>
-
----
-
-<div>
     <h1>node in 2026</h1>
     <a href="https://github.com/nodejs/node/pull/65295"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://nodejs.org/static/logos/nodejsStackedLight.svg'></a>
     <br>
@@ -123,19 +110,6 @@ I'm currently building browser extensions and web applications.
     <h2>Changes</h2>
     <ul>
         <li>Fixes a few obvious documentation issues in the Vite docs, including inconsistent option casing and minor grammar fixes.</li>
-    </ul>
-</div>
-
----
-
-<div>
-    <h1>ruby in 2026</h1>
-    <a href="https://github.com/ruby/ruby/pull/18405"><img style="width: 150px; height: auto; min-width: 100px; max-width: 200px;" src='https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Fix environment variable SYNTAX_SUGEST_TIMEOUT to SYNTAX_SUGGEST_TIMEOUT.</li>
-        <li>Correct proper noun capitalization (GitHub, GitHub Actions)</li>
     </ul>
 </div>
 
