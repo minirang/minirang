@@ -6,7 +6,6 @@
 
 ---
 
-<br>
 <img src="img.svg" width="100%">
 <br>
 <img src="https://raw.githubusercontent.com/minirang/minirang/refs/heads/output/github-contribution-grid-snake-dark.svg">
