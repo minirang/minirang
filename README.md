@@ -29,7 +29,6 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Cmd](https://img.shields.io/badge/Cmd-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
@@ -55,115 +54,6 @@ I like trying things out and learning by building.
 
 ---
 
-## Projects
-
-![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=web&logoColor=white)
-
-I'm currently building browser extensions and web applications.
-
----
-
-# Contributed opensource
-
-<div>
-    <h1>Fastify in 2026</h1>
-    <a href="https://github.com/fastify/fastify/pull/6899"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://avatars.githubusercontent.com/u/24939410'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Fix grammar and formatting issues in the Table of Contents</li>
-        <li>Normalize CommonJS capitalization</li>
-    </ul>
-</div>
-
----
-
-<div>
-    <h1>cpython in 2026</h1>
-    <a href="https://github.com/python/cpython/pull/155607"><img style="width: 300px; height: auto; min-width: 200px; max-width: 300px;" src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Add missing verb in README.md</li>
-    </ul>
-</div>
-
----
-
-<div>
-    <h1>node in 2026</h1>
-    <a href="https://github.com/nodejs/node/pull/65295"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://nodejs.org/static/logos/nodejsStackedLight.svg'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Fix grammar in onboarding.md</li>
-    </ul>
-</div>
-
----
-
-<div>
-    <h1>vite in 2026</h1>
-    <a href="https://github.com/vitejs/vite/pull/23270"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://vite.dev/assets/vite-light.t8GCa_VF.svg'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Fixes a few obvious documentation issues in the Vite docs, including inconsistent option casing and minor grammar fixes.</li>
-    </ul>
-</div>
-
----
-
-<div>
-    <h1>jquery in 2026</h1>
-    <a href="https://github.com/jquery/jquery/pull/5903"><img style="width: 300px; height: auto; min-width: 250px; max-width: 300px;" src='https://brand.jquery.org/resources/jquery-mark-dark.gif'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Fix XMLHTTPRequest into XMLHttpRequest in README.md</li>
-    </ul>
-</div>
-
----
-
-<div>
-    <h1>whatwg/html in 2026</h1>
-    <a href="https://github.com/whatwg/html/pull/12769"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://resources.whatwg.org/logo.svg'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Fix 'supicious' into 'suspicious' and fix 'even it' into 'even if'.</li>
-    </ul>
-</div>
-
----
-
-<div>
-    <h1>w3c/png in 2026</h1>
-    <a href="https://github.com/w3c/png/pull/580"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://avatars.githubusercontent.com/u/379216?s=400'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Fix 'depnd on' into 'depend on' and fix 'specificlly' into 'specifically'.</li>
-    </ul>
-</div>
-
----
-
-<div>
-    <h1>bootstrap in 2026</h1>
-    <a href="https://github.com/twbs/bootstrap/pull/42879"><img style="width: 250px; height: auto; min-width: 200px; max-width: 250px;" src='https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg'></a>
-    <br>
-    <h2>Changes</h2>
-    <ul>
-        <li>Fix modal JS examples</li>
-        <li>Fix list numbering</li>
-    </ul>
-</div>
-
----
-
 ## Stats
 
 <!--![GitHub stats](stats.svg)<br>-->
@@ -178,17 +68,3 @@ You can reach me via [email](mailto:minseong130502@gmail.com), GitHub Issues, Pu
 <br>
 
 ---
-
-
-<details>
-<summary>🐛🐛🐛🐛🐛 Bug Report</summary>
-
-Known issues:
-
-* Sometimes spends 3 hours fixing a bug caused 3 hours ago
-* Turns simple ideas into side projects
-* Frequently says "just one more feature 😂"
-
-No fix planned.
-
-</details>
