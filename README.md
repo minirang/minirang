@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Hi there 👋, 서울민트초코입니다 ^^
+    Hi there 👋
 </h1>
 
 > I'm a middle school student who enjoys building interesting things, exploring new technologies, and learning through real projects.
@@ -65,3 +65,4 @@ I like trying things out and learning by building.
 ## Contact
 
 You can reach me via [email](mailto:minseong130502@gmail.com), GitHub Issues, Pull Requests, or Discussions.
+<br>
