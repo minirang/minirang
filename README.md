@@ -65,6 +65,3 @@ I like trying things out and learning by building.
 ## Contact
 
 You can reach me via [email](mailto:minseong130502@gmail.com), GitHub Issues, Pull Requests, or Discussions.
-<br>
-
----
