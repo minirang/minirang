@@ -52,6 +52,7 @@ I like trying things out and learning by building.
 
 <!--![GitHub stats](stats.svg)<br>-->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=minirang&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" width="100%" style="max-width: 420px;" />
+
 ---
 
 ## Contact
