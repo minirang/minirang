@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">김민성's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 111, Total Commits  (last year) : 1538, Total PRs: 63, Total Issues: 6, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 111, Total Commits  (last year) : 1542, Total PRs: 63, Total Issues: 6, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.00555444556412;
+        stroke-dashoffset: 70.99924611508477;
       }
     }
   
