@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">김민성's GitHub Stats, Rank: A-</title>
+        <title id="titleId">서울민트초코's GitHub Stats, Rank: A-</title>
         <desc id="descId">Total Stars Earned: 114, Total Commits  (last year) : 1564, Total PRs: 63, Total Issues: 6, Contributed to (last year): 28</desc>
         <style>
           .header {
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >김민성's GitHub Stats</text>
+      >서울민트초코's GitHub Stats</text>
     </g>
       </g>
     
