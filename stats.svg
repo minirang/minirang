@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">서울민트초코's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 115, Total Commits  (last year) : 1544, Total PRs: 63, Total Issues: 6, Contributed to (last year): 27</desc>
+        <desc id="descId">Total Stars Earned: 117, Total Commits  (last year) : 1545, Total PRs: 63, Total Issues: 6, Contributed to (last year): 27</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.24286246228107;
+        stroke-dashoffset: 69.93740333248452;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >115</text>
+      >117</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
