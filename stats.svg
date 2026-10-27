@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">서울민트초코's GitHub Stats, Rank: A-</title>
+        <title id="titleId">김민성 (서울민트초코)'s GitHub Stats, Rank: A-</title>
         <desc id="descId">Total Stars Earned: 114, Total Commits  (last year) : 1526, Total PRs: 63, Total Issues: 6, Contributed to (last year): 27</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.42590752355562;
+        stroke-dashoffset: 70.42521641638335;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >서울민트초코's GitHub Stats</text>
+      >김민성 (서울민트초코)'s GitHub Stats</text>
     </g>
       </g>
     
