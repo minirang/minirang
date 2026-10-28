@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">김민성 (서울민트초코)'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 114, Total Commits  (last year) : 1526, Total PRs: 63, Total Issues: 6, Contributed to (last year): 27</desc>
+        <desc id="descId">Total Stars Earned: 114, Total Commits  (last year) : 1527, Total PRs: 63, Total Issues: 6, Contributed to (last year): 27</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.42504442209385;
+        stroke-dashoffset: 70.42353030971003;
       }
     }
   
